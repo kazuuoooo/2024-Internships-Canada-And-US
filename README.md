@@ -4,9 +4,9 @@ We're back and better than ever! **Intern Insider** and **Ribbon** have teamed u
 
 ⚠️ **Important Note:** This repository is dedicated exclusively to internships and co-ops located in the United States, Canada, or Remote positions. Our goal is to streamline your search for the perfect summer internship, offering a central hub for opportunities that span across North America and beyond.
 
-[![Subscribe to Intern Insider](https://img.shields.io/badge/-Subscribe%20to%20Intern%20Insider-blue?style=for-the-badge)](https://linktointerninsidersubscription)
+[![Subscribe to Intern Insider](https://img.shields.io/badge/-Subscribe%20to%20Intern%20Insider-blue?style=for-the-badge)](https://www.interninsider.me/)
 
-[![Sign Up for Ribbon](https://img.shields.io/badge/-Sign%20Up%20for%20Ribbon-brightgreen?style=for-the-badge)](https://linktosignupforribbon)
+[![Sign Up for Ribbon](https://img.shields.io/badge/-Sign%20Up%20for%20Ribbon-brightgreen?style=for-the-badge)](https://www.ribbon.cool/)
 
 # Internship Listings for Summer 2024
 
