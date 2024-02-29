@@ -25,8 +25,8 @@ for listing in listings:
 
     markdown_content += f"| {company_name} | {title} | {locations} | {date_posted} | {terms} | [Link]({url}) |\n"
 
-# Write the markdown content to README.md
-with open('README.md', 'w', encoding='utf-8') as readme_file:
+# Write the markdown content to RclearEADME.md
+with open('../README.md', 'w', encoding='utf-8') as readme_file:
     readme_file.write(markdown_content)
 
 print("README.md has been created successfully.")
