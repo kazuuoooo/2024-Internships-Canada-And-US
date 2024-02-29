@@ -1,20 +1,25 @@
 import json
 from datetime import datetime
 
-# Function to convert timestamp to readable date
 def format_date(timestamp):
     return datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
 
-# Read the JSON data from the file
+
+with open('header.md', 'r', encoding='utf-8') as header_file:
+    header_content = header_file.read()
+
 with open('listings.json', 'r', encoding='utf-8') as file:
     listings = json.load(file)
 
-# Start creating the markdown content for the README
 markdown_content = "# Internship Listings for Summer 2024\n\n"
 markdown_content += "| Company Name | Title | Location(s) | Date Posted | Terms | Listing URL |\n"
 markdown_content += "|--------------|-------|-------------|-------------|-------|-------------|\n"
 
-# Loop through each listing and add it to the markdown content
+markdown_content = header_content + "\n\n# Internship Listings for Summer 2024\n\n"
+markdown_content += "| Company Name | Title | Location(s) | Date Posted | Terms | Listing URL |\n"
+markdown_content += "|--------------|-------|-------------|-------------|-------|-------------|\n"
+
+
 for listing in listings:
     company_name = listing.get('company_name', 'N/A')
     title = listing.get('title', 'N/A')
@@ -25,7 +30,7 @@ for listing in listings:
 
     markdown_content += f"| {company_name} | {title} | {locations} | {date_posted} | {terms} | [Link]({url}) |\n"
 
-# Write the markdown content to RclearEADME.md
+
 with open('../README.md', 'w', encoding='utf-8') as readme_file:
     readme_file.write(markdown_content)
 
