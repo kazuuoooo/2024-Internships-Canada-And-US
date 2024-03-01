@@ -4,6 +4,11 @@ We're back and better than ever! **Intern Insider** and **Ribbon** have teamed u
 
 ⚠️ **Important Note:** This repository is dedicated exclusively to internships and co-ops located in the United States, Canada, or Remote positions. Our goal is to streamline your search for the perfect summer internship, offering a central hub for opportunities that span across North America and beyond.
 
-[![Subscribe to Intern Insider](https://img.shields.io/badge/-Subscribe%20to%20Intern%20Insider-blue?style=for-the-badge)](https://www.interninsider.me/)
-
-[![Sign Up for Ribbon](https://img.shields.io/badge/-Sign%20Up%20for%20Ribbon-brightgreen?style=for-the-badge)](https://www.ribbon.cool/)
+<p align="center">
+  <a href="https://www.interninsider.me/">
+    <img src="data/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:150px;"/>
+  </a>
+  <a href="https://www.ribbon.cool/">
+    <img src="data/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:150px;"/>
+  </a>
+</p>
