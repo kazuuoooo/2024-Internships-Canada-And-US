@@ -8,6 +8,7 @@ We're back and better than ever! **Intern Insider** and **Ribbon** have teamed u
   <a href="https://www.interninsider.me/">
     <img src="data/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:300px;"/>
   </a>
+  <span>X</span>
   <a href="https://www.ribbon.cool/">
     <img src="data/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:300px;"/>
   </a>
