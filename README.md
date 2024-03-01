@@ -4,9 +4,15 @@ We're back and better than ever! **Intern Insider** and **Ribbon** have teamed u
 
 ⚠️ **Important Note:** This repository is dedicated exclusively to internships and co-ops located in the United States, Canada, or Remote positions. Our goal is to streamline your search for the perfect summer internship, offering a central hub for opportunities that span across North America and beyond.
 
-[![Subscribe to Intern Insider](https://img.shields.io/badge/-Subscribe%20to%20Intern%20Insider-blue?style=for-the-badge)](https://www.interninsider.me/)
+<p align="center">
+  <a href="https://www.interninsider.me/">
+    <img src="data/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:150px;"/>
+  </a>
+  <a href="https://www.ribbon.cool/">
+    <img src="data/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:150px;"/>
+  </a>
+</p>
 
-[![Sign Up for Ribbon](https://img.shields.io/badge/-Sign%20Up%20for%20Ribbon-brightgreen?style=for-the-badge)](https://www.ribbon.cool/)
 
 # Internship Listings for Summer 2024
 
@@ -3246,3 +3252,13 @@ We're back and better than ever! **Intern Insider** and **Ribbon** have teamed u
 | CACI | Software Development Intern - Summer 2024 | Remote in USA | 2024-02-28 | Summer 2024 | [Link](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Software-Development-Intern---Summer-2024_293262-1) |
 | Workato | Intern – Infrastructure Engineering | Mountain View, CA | 2024-02-28 | Summer 2024 | [Link](https://boards.greenhouse.io/workato/jobs/7254670002) |
 | Western Digital | RAMP System Design Verification Engineering Intern | Milpitas, CA | 2024-02-16 | Summer 2024 | [Link](https://jobs.smartrecruiters.com/WesternDigital/743999970507363) |
+| Simbe Robotics | Computer Vision Software Intern | San Bruno, CA | 2024-02-28 | Fall 2024, Spring 2025, Summer 2025 | [Link](https://jobs.lever.co/SimbeRobotics/aee4d8cb-dd07-4771-bf74-41bf3e44d292/apply) |
+| Autodesk | Remote SDET Engineer Intern | Remote in USA | 2024-02-28 | Summer 2024 | [Link](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Arizona-USA---Remote/Remote-SDET-Engineer-Intern_24WD76178-1) |
+| Schonfeld | 2024 Software Engineering – Summer Internship - User Interface | NYC | 2024-02-28 | Summer 2024 | [Link](https://boards.greenhouse.io/schonfeld/jobs/5766800) |
+| Roku | Data Science Intern | San Jose, CA | 2024-02-28 | Summer 2024 | [Link](https://www.weareroku.com/jobs/5749954?gh_jid=5749954) |
+| Unite Us | Internship: Data Science Intern | Remote in USA | 2024-02-28 | Summer 2024 | [Link](https://boards.greenhouse.io/uniteus/jobs/7264174002) |
+| Leidos | Robotics Engineer Intern | Huntsville, AL | 2024-02-28 | Summer 2024 | [Link](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Robotics-Engineer-Intern_R-00129986) |
+| G2 | Summer Intern: Software Engineering - Python | Chicago, IL | 2024-02-28 | Summer 2024 | [Link](https://boards.greenhouse.io/g2crowd/jobs/5752260) |
+| Leidos | Devops Intern | Arlington, VA | 2024-02-29 | Summer 2024 | [Link](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/DevOps-Intern_R-00129931) |
+| Bristol-Myers Squibb | Summer 2024 – Commercial Data Science Internship | Princeton, NJ | 2024-02-29 | Summer 2024 | [Link](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Princeton---NJ---US/Summer-2024---Commercial-Data-Science-Internship_R1578876) |
+| Schonfeld | 2024 Core Operations Summer Internship | Miami, FL | 2023-11-06 | Summer 2024 | [Link](https://boards.greenhouse.io/schonfeld/jobs/5487490) |
