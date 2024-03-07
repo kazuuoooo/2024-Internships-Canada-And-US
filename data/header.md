@@ -7,12 +7,19 @@
   </a>
 </p>
 
-Welcome! This list is your go-to resource for 1000s internships and entry-level jobs in tech, design, business, and more for Summer 2024 and it's updated regularly with new opportunities. Share with a friend in need! - Share
+# Welcome!
 
-🌎 Please note that this list is predominantly internships/jobs based in the United States, Canada, and Remote.
+This list is your **go-to resource** for 1000s of internships and entry-level jobs in tech, design, business, and more for **Summer 2024**. It's updated regularly with new opportunities. Share with a friend in need!
+
+> :sparkles: **Share**
+
+🌎 **Please note** that this list is predominantly internships/jobs based in the **United States, Canada, and Remote**.
+
+---
 
 😴 Tired of checking for new internships every day? 💤
-Have new internship opportunities sent directly to your inbox!
+
+> :mailbox: **Have new internship opportunities sent directly to your inbox!**
 
 <p align="left">
   <a href="https://www.interninsider.me/">
