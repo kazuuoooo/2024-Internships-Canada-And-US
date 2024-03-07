@@ -7,7 +7,7 @@ Welcome! This list is your go-to resource for 1000s internships and entry-level 
 😴 Tired of checking for new internships every day? 💤
 Have new internship opportunities sent directly to your inbox!
 
-<p align="center">
+<p align="left">
   <a href="https://www.interninsider.me/">
     <img src="data/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:300px;"/>
   </a>
@@ -17,7 +17,7 @@ Have new internship opportunities sent directly to your inbox!
 😩 Struggling to keep track of all your applications? 🫠
 Seamlessly track and organize your applications across all major sites with our chrome extension!
 
-<p align="center">
+<p align="left">
   <a href="https://www.ribbon.cool/">
     <img src="data/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:300px;"/>
   </a>
