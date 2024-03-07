@@ -28,8 +28,11 @@ for listing in listings:
     date_posted = format_date(listing.get('date_posted', '0'))
     terms = ', '.join(listing.get('terms', []))
     url = listing.get('url', '')
+    link_button = (f"[![Apply Button](data/image_url/applybutton.png)]({url})"
+                f"![Intern Insider](data/image_url/interninsidersmall.png)"
+                f"![Ribbon](data/image_url/ribbontsmall.png)")
 
-    markdown_content += f"| {company_name} | {title} | {locations} | {date_posted} | {terms} | [Link]({url}) |\n"
+    markdown_content += f"| {company_name} | {title} | {locations} | {date_posted} | {terms} | {link_button} |\n"
 
 
 with open('../README.md', 'w', encoding='utf-8') as readme_file:
