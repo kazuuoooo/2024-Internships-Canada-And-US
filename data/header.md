@@ -16,7 +16,7 @@ Have new internship opportunities sent directly to your inbox!
 
 <p align="left">
   <a href="https://www.interninsider.me/">
-    <img src="data/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:300px;"/>
+    <img src="data/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:150px;"/>
   </a>
 </p>
 
