@@ -26,7 +26,7 @@ Seamlessly track and organize your applications across all major sites with our 
 
 <p align="left">
   <a href="https://www.ribbon.cool/">
-    <img src="data/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:300px;"/>
+    <img src="data/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:150px;"/>
   </a>
 </p>
 
