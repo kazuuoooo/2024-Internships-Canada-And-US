@@ -3,10 +3,7 @@
 
 <p align="center">
   <a href="https://www.interninsider.me/">
-    <img src="data/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:150px;"/>
-  </a>
-  <a href="https://www.ribbon.cool/">
-    <img src="data/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:150px;"/>
+    <img src="data/header.png" alt="Subscribe to Intern Insider" style="width:1920px;"/>
   </a>
 </p>
 
