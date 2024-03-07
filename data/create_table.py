@@ -19,6 +19,7 @@ markdown_content = header_content + "\n\n# Internship Listings for Summer 2024\n
 markdown_content += "| Company Name | Title | Location(s) | Date Posted | Terms | Listing URL |\n"
 markdown_content += "|--------------|-------|-------------|-------------|-------|-------------|\n"
 
+sorted_listings = sorted(listings, key=lambda x: x.get('date_posted', 0), reverse=True)
 
 for listing in listings:
     company_name = listing.get('company_name', 'N/A')
