@@ -33,7 +33,8 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 
 
 😩 Struggling to keep track of all your applications? 🫠
-Seamlessly track and organize your applications across all major sites with our chrome extension!
+> **Seamlessly track and organize your applications across all major sites with our chrome extension!**
+
 
 <p align="left">
   <a href="https://www.ribbon.cool/">
