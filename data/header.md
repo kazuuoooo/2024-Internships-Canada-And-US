@@ -1,17 +1,25 @@
-# Summer 2024 Tech Internships by Intern Insider & Ribbon 🌟
+# Summer 2024 Tech+ Internships by Intern Insider & Ribbon 🌟
 
-We're back and better than ever! **Intern Insider** and **Ribbon** have teamed up to bring you the most comprehensive repository for software, tech, CS, PM, and quant internships for Summer 2024. Dive into our curated list, collaboratively maintained to ensure you have access to the best opportunities out there.
+Welcome! This list is your go-to resource for 1000s internships and entry-level jobs in tech, design, business, and more for Summer 2024 and it's updated regularly with new opportunities. Share with a friend in need! - Share
 
-⚠️ **Important Note:** This repository is dedicated exclusively to internships and co-ops located in the United States, Canada, or Remote positions. Our goal is to streamline your search for the perfect summer internship, offering a central hub for opportunities that span across North America and beyond.
+🌎 Please note that this list is predominantly internships/jobs based in the United States, Canada, and Remote.
+
+😴 Tired of checking for new internships every day? 💤
+Have new internship opportunities sent directly to your inbox!
 
 <p align="center">
   <a href="https://www.interninsider.me/">
     <img src="data/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:300px;"/>
   </a>
-    <a href="https://www.interninsider.me/">
-    <img src="data/x.png" alt="Subscribe to Intern Insider" style="width:50px;"/>
-  </a>
+</p>
+
+
+😩 Struggling to keep track of all your applications? 🫠
+Seamlessly track and organize your applications across all major sites with our chrome extension!
+
+<p align="center">
   <a href="https://www.ribbon.cool/">
     <img src="data/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:300px;"/>
   </a>
 </p>
+
