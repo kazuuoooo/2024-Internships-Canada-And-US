@@ -13,9 +13,9 @@ def filter_and_format_listings(input_filename, output_filename):
         formatted_listing = {
             "company_name": listing.get('company_name', 'N/A'),
             "title": listing.get('title', 'N/A'),
-            "locations": ', '.join(listing.get('locations', [])),
+            "locations": listing.get('locations', []),
             "date_posted": (listing.get('date_posted', 0)),
-            "terms": ', '.join(listing.get('terms', [])),
+            "terms": listing.get('terms', []),
             "url": listing.get('url', '')
         }
         formatted_listings.append(formatted_listing)

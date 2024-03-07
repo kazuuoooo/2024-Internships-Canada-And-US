@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 
 def format_date(timestamp):
-    return datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
+    return datetime.fromtimestamp(timestamp).strftime('%b %d, %Y')
 
 
 with open('header.md', 'r', encoding='utf-8') as header_file:
