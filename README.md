@@ -16,6 +16,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 [![Share on Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fyourrepository)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20GitHub%20repository!&url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fyourrepository)
 [![Share via Email](https://img.shields.io/badge/email-share-blue.svg)](mailto:?subject=Check%20out%20this%20awesome%20GitHub%20repository!&body=Check%20out%20this%20GitHub%20repository:%20https%3A%2F%2Fgithub.com%2Fyourusername%2Fyourrepository)
 [![Share on LinkedIn](https://img.shields.io/badge/LinkedIn-share-blue.svg)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fyourrepository)
+![Copy Link](https://img.shields.io/badge/Copy%20Link-clipboard-blue.svg)
 
 🌎 **Please note** that this list is predominantly internships/jobs based in the **United States, Canada, and Remote**.
 
@@ -48,7 +49,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 # Internship Listings for Summer 2024
 
 | Company | Role | Location(s) | Apply | Date Posted |
-|--------------|------------------|----------------------|-------------|------------------------|
+|--------------|------------------|---------------|-------------|------------------------|
 | Capital One | Product Development Intern  | McLean, VA, Plano, TX | <p align="center">  <a href="https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592" target="_blank">    <img src="data/images/applybutton.png" alt="Apply Button" style="width:80px;">  </a></p><p align="center">  <img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:24px;">  <img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:24px;"></p> | May 11, 2023 |
 | Akuna Capital | Trading Internship | Chicago, IL | <p align="center">  <a href="https://www.akunacapital.com/job-details?gh_jid=5132302" target="_blank">    <img src="data/images/applybutton.png" alt="Apply Button" style="width:80px;">  </a></p><p align="center">  <img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:24px;">  <img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:24px;"></p> | Jul 18, 2023 |
 | Akuna Capital | Performance Engineer Intern | Chicago, IL | <p align="center">  <a href="https://www.akunacapital.com/job-details?gh_jid=5148034" target="_blank">    <img src="data/images/applybutton.png" alt="Apply Button" style="width:80px;">  </a></p><p align="center">  <img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:24px;">  <img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:24px;"></p> | Jul 18, 2023 |

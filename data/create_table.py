@@ -14,7 +14,7 @@ with open('internship_listings.json', 'r', encoding='utf-8') as file:
 
 markdown_content = header_content + "\n\n# Internship Listings for Summer 2024\n\n"
 markdown_content += "| Company | Role | Location(s) | Apply | Date Posted |\n"
-markdown_content += "|--------------|------------------|----------------------|-------------|------------------------|\n"
+markdown_content += "|--------------|------------------|---------------|-------------|------------------------|\n"
 
 sorted_listings = sorted(listings, key=lambda x: x.get('date_posted', 0), reverse=True)
 
