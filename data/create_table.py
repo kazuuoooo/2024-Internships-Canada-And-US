@@ -11,12 +11,9 @@ with open('header.md', 'r', encoding='utf-8') as header_file:
 with open('internship_listings.json', 'r', encoding='utf-8') as file:
     listings = json.load(file)
 
-markdown_content = "# Internship Listings for Summer 2024\n\n"
-markdown_content += "| Company Name | Title | Location(s) | Date Posted | Terms | Listing URL |\n"
-markdown_content += "|--------------|-------|-------------|-------------|-------|-------------|\n"
 
 markdown_content = header_content + "\n\n# Internship Listings for Summer 2024\n\n"
-markdown_content += "| Company Name | Title | Location(s) | Date Posted | Terms | Listing URL |\n"
+markdown_content += "| Company | Role | Location(s) | Date Posted | Terms | Listing URL |\n"
 markdown_content += "|--------------|-------|-------------|-------------|-------|-------------|\n"
 
 sorted_listings = sorted(listings, key=lambda x: x.get('date_posted', 0), reverse=True)
