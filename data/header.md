@@ -27,7 +27,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 
 <p align="center">
   <a href="https://www.interninsider.me/">
-    <img src="data/images/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:350px;"/>
+    <img src="data/images/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:275px;"/>
   </a>
 </p>
 
@@ -38,7 +38,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 
 <p align="center">
   <a href="https://www.ribbon.cool/">
-    <img src="data/images/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:350px;"/>
+    <img src="data/images/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:275px;"/>
   </a>
 </p>
 
