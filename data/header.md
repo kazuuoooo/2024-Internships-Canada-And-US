@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.interninsider.me/">
-    <img src="data/header.png" alt="Subscribe to Intern Insider" style="width:1920px;"/>
+    <img src="data/images/header.png" alt="Subscribe to Intern Insider" style="width:1920px;"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 
 <p align="left">
   <a href="https://www.interninsider.me/">
-    <img src="data/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:200px;"/>
+    <img src="data/images/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:200px;"/>
   </a>
 </p>
 
@@ -38,7 +38,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 
 <p align="left">
   <a href="https://www.ribbon.cool/">
-    <img src="data/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:200px;"/>
+    <img src="data/images/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:200px;"/>
   </a>
 </p>
 
