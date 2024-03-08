@@ -48,7 +48,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 # Internship Listings for Summer 2024
 
 | Company | Role | Location(s) | Apply | Date Posted |
-|--------------|------------------|----------------------|-------------|------------------------|
+|--------------|---------------------------|----------------------|-------------|------------------------|
 | Capital One | Product Development Intern  | McLean, VA, Plano, TX | <a href="https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592" target="_blank"><img src="data/images/applybutton.png" alt="Apply Button" style="width:80px;"></a><img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:24px;"><img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:24px;"> | May 11, 2023 |
 | Akuna Capital | Trading Internship | Chicago, IL | <a href="https://www.akunacapital.com/job-details?gh_jid=5132302" target="_blank"><img src="data/images/applybutton.png" alt="Apply Button" style="width:80px;"></a><img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:24px;"><img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:24px;"> | Jul 18, 2023 |
 | Akuna Capital | Performance Engineer Intern | Chicago, IL | <a href="https://www.akunacapital.com/job-details?gh_jid=5148034" target="_blank"><img src="data/images/applybutton.png" alt="Apply Button" style="width:80px;"></a><img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:24px;"><img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:24px;"> | Jul 18, 2023 |
