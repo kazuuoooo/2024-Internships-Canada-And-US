@@ -25,9 +25,9 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 
 > :mailbox: **Have new internship opportunities sent directly to your inbox!**
 
-<p align="left">
+<p align="center">
   <a href="https://www.interninsider.me/">
-    <img src="data/images/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:200px;"/>
+    <img src="data/images/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:350px;"/>
   </a>
 </p>
 
@@ -36,12 +36,13 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 > **Seamlessly track and organize your applications across all major sites with our chrome extension!**
 
 
-<p align="left">
+<p align="center">
   <a href="https://www.ribbon.cool/">
-    <img src="data/images/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:200px;"/>
+    <img src="data/images/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:350px;"/>
   </a>
 </p>
 
+---
 
 
 # Internship Listings for Summer 2024
