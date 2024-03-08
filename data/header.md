@@ -26,7 +26,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 > :mailbox: **Have new internship opportunities sent directly to your inbox!**
 
 <p align="center">
-  <a href="https://www.interninsider.me/">
+  <a href="https://www.interninsider.me/subscribe?utm_source=githubmain" target="_blank">
     <img src="data/images/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:300px;"/>
   </a>
 </p>
@@ -37,7 +37,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 
 
 <p align="center">
-  <a href="https://www.ribbon.cool/">
+  <a href="https://www.ribbon.ai/install?utm_source=github" target="_blank">
     <img src="data/images/ribbonbutton.png" alt="Sign Up for Ribbon" style="width:300px;"/>
   </a>
 </p>

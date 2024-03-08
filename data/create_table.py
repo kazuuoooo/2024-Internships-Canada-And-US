@@ -26,8 +26,8 @@ for listing in listings:
     terms = ', '.join(listing.get('terms', []))
     url = listing.get('url', '')
     link_button = (f'<a href="{url}" target="_blank"><img src="data/images/applybutton.png" alt="Apply Button" style="width:100px;"></a>'
-                    f'<img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:50px;">'
-                    f'<img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:50px;">')
+                    f'<a href="https://www.interninsider.me/subscribe?utm_source=githubposting" target="_blank"><img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:50px;"></a>'
+                    f'<a href="https://www.ribbon.ai/install?utm_source=github" target="_blank"><img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:50px;"></a>')
 
     markdown_content += f"| {company_name} | {title} | {locations} | {link_button} | {date_posted} |\n"
 
