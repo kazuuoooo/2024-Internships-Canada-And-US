@@ -25,15 +25,16 @@ for listing in listings:
     date_posted = format_date(listing.get('date_posted', '0'))
     terms = ', '.join(listing.get('terms', []))
     url = listing.get('url', '')
-    link_button = (f'<div style="text-align:center; display:flex; flex-direction:column; align-items:center;">'
-                f'  <a href="{url}" target="_blank">'
-                f'    <img src="data/images/applybutton11.png" alt="Apply Button" style="width:150px;">'
-                f'  </a>'
-                f'  <div style="display:flex; justify-content:center; width:100%;">'
-                f'    <img src="data/images/applybutton.png" alt="Intern Insider" style="width:60px; margin-right:5px;">'
-                f'    <img src="data/images/applybutton.png" alt="Ribbon" style="width:60px; margin-left:5px;">'
-                f'  </div>'
-                f'</div>')
+    link_button = (f'<p align="center">'
+               f'  <a href="{url}" target="_blank">'
+               f'    <img src="data/images/applybutton.png" alt="Apply Button" style="width:80px;">'
+               f'  </a>'
+               f'</p>'
+               f'<p align="center">'
+               f'  <img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:24px;">'
+               f'  <img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:24px;">'
+               f'</p>')
+
     markdown_content += f"| {company_name} | {title} | {locations} | {link_button} | {date_posted} |\n"
 
 
