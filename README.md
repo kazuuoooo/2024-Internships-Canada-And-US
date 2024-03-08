@@ -42,8 +42,6 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
   </a>
 </p>
 
-
-
 ---
 
 
