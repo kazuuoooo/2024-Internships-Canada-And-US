@@ -13,8 +13,8 @@ with open('internship_listings.json', 'r', encoding='utf-8') as file:
 
 
 markdown_content = header_content + "\n\n# Internship Listings for Summer 2024\n\n"
-markdown_content += "| Company | Role | Location(s) | Date Posted | Apply |\n"
-markdown_content += "|--------------|-----------------|-------------|------------------|-------------|\n"
+markdown_content += "| Company | Role | Location(s) | Apply | Date Posted |\n"
+markdown_content += "|--------------|---------------------------|-------------|--------------|-------------|\n"
 
 sorted_listings = sorted(listings, key=lambda x: x.get('date_posted', 0), reverse=True)
 
@@ -29,7 +29,7 @@ for listing in listings:
                     f'<img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:24px;">'
                     f'<img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:24px;">')
 
-    markdown_content += f"| {company_name} | {title} | {locations} | {date_posted} | {link_button} |\n"
+    markdown_content += f"| {company_name} | {title} | {locations} | {link_button} | {date_posted} |\n"
 
 
 with open('../README.md', 'w', encoding='utf-8') as readme_file:
