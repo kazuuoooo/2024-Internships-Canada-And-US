@@ -49,6 +49,11 @@ for listing in listings[:500]:
 
     markdown_content += f"| {company_name} | {role} | {locations} | {link_button} | {date_posted} |\n"
 
+with open('footer.md', 'r', encoding='utf-8') as footer_file:
+    footer_content = footer_file.read()
+
+markdown_content += footer_content
+
 
 with open('../README.md', 'w', encoding='utf-8') as readme_file:
     readme_file.write(markdown_content)
