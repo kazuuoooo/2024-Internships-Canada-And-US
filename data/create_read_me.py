@@ -9,8 +9,8 @@ with open('internship_listings.json', 'r', encoding='utf-8') as file:
 
 
 markdown_content = header_content + "\n\n# Internship Listings for Summer 2024\n\n"
-markdown_content += "| Company | Role | Location(s) | Apply | Date Posted |\n"
-markdown_content += "|---------|------|-------------|-------|-------------|\n"
+markdown_content += "| Company | Role | Location(s) | Apply/Link | Date Posted |\n"
+markdown_content += "|---------|------|-------------|------------|-------------|\n"
 
 sorted_listings = sorted(listings, key=lambda x: x.get('date_posted', 0), reverse=True)
 
@@ -21,8 +21,8 @@ for listing in listings:
     date_posted = listing.get('Date Posted', 'N/A') 
     apply_url = listing.get('Apply', '')
     link_button = (f'<a href="{apply_url}" target="_blank"><img src="data/images/applybutton.png" alt="Apply Button" style="width:80px;"></a>'
-                    f'<a href="https://www.interninsider.me/subscribe?utm_source=githubposting" target="_blank"><img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:35px;"></a>'
-                    f'<a href="https://www.ribbon.ai/install" target="_blank"><img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:35px;"></a>')
+                    f'<a href="https://www.interninsider.me/subscribe?utm_source=githubposting" target="_blank"><img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:40px;"></a>'
+                    f'<a href="https://www.ribbon.ai/install" target="_blank"><img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:40px;"></a>')
 
     markdown_content += f"| {company_name} | {role} | {locations} | {link_button} | {date_posted} |\n"
 
