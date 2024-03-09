@@ -5397,13 +5397,6 @@
         "Date Posted": "2/23/2024"
     },
     {
-        "Company": "RITE AID",
-        "Role": "2024 Graduate Intern/Pharmacist",
-        "Location(s)": "Sequim, WA",
-        "Apply": "https://www.linkedin.com/jobs/search/?currentJobId=3750652525",
-        "Date Posted": "2/23/2024"
-    },
-    {
         "Company": "Milliken & Company",
         "Role": "Pendleton - Summer Intern",
         "Location(s)": "Pendleton, SC",
@@ -6048,32 +6041,11 @@
         "Date Posted": "2/22/2024"
     },
     {
-        "Company": "RITE AID",
-        "Role": "2024 Graduate Intern/Pharmacist",
-        "Location(s)": "Nashua, NH",
-        "Apply": "https://www.linkedin.com/jobs/search/?currentJobId=3766324489",
-        "Date Posted": "2/22/2024"
-    },
-    {
-        "Company": "RITE AID",
-        "Role": "2024 Graduate Intern/Pharmacist",
-        "Location(s)": "Concord, NH",
-        "Apply": "https://www.linkedin.com/jobs/search/?currentJobId=3766322064",
-        "Date Posted": "2/22/2024"
-    },
-    {
-        "Company": "RITE AID",
-        "Role": "2024 Graduate Intern/Pharmacist",
-        "Location(s)": "Puyallup, WA",
-        "Apply": "https://www.linkedin.com/jobs/search/?currentJobId=3752032076",
-        "Date Posted": "2/22/2024"
-    },
-    {
-        "Company": "RITE AID",
-        "Role": "2024 Graduate Intern/Pharmacist",
-        "Location(s)": "Winchester, NH",
-        "Apply": "https://www.linkedin.com/jobs/search/?currentJobId=3740525597",
-        "Date Posted": "2/22/2024"
+        "Company": "Intern/Pharmacist",
+        "Role": "Winchester, NH",
+        "Location(s)": "https://www.linkedin.com/jobs/search/?currentJobId=3740525597",
+        "Apply": "2/22/2024",
+        "Date Posted": null
     },
     {
         "Company": "Alcon",
