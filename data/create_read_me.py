@@ -31,12 +31,12 @@ with open('internship_listings.json', 'r', encoding='utf-8') as file:
 
 
 markdown_content = header_content + "\n\n# Internship Listings for Summer 2024\n\n"
-markdown_content += "| Company | Role | Location(s) | Apply | Date Posted |\n"
+markdown_content += "| Company | Role | Location(s) | Apply/Link | Date Posted |\n"
 markdown_content += "|---------|------|-------------|-------|-------------|\n"
 
 sorted_listings = sorted(listings, key=lambda x: x.get('date_posted', 0), reverse=True)
 
-for listing in listings:
+for listing in listings[:500]:
     company_name = listing.get('Company', 'N/A')
     role = listing.get('Role', 'N/A')
     locations = listing.get('Location(s)', 'N/A')
