@@ -1,5 +1,7 @@
 import json
 from datetime import datetime
+import urllib.parse
+
 
 with open('header.md', 'r', encoding='utf-8') as header_file:
     header_content = header_file.read()
@@ -20,7 +22,8 @@ for listing in listings:
     locations = listing.get('Location(s)', 'N/A')
     date_posted = listing.get('Date Posted', 'N/A') 
     apply_url = listing.get('Apply', '')
-    link_button = (f'<a href="{apply_url}" target="_blank"><img src="data/images/applybutton.png" alt="Apply Button" style="width:80px;"></a>'
+    apply_url_encoded = urllib.parse.quote(apply_url, safe=':/')
+    link_button = (f'<a href="{apply_url_encoded}" target="_blank"><img src="data/images/applybutton.png" alt="Apply Button" style="width:80px;"></a>'
                     f'<a href="https://www.interninsider.me/subscribe?utm_source=githubposting" target="_blank"><img src="data/images/interninsidersmall.png" alt="Intern Insider" style="width:40px;"></a>'
                     f'<a href="https://www.ribbon.ai/install" target="_blank"><img src="data/images/ribbonsmall.png" alt="Ribbon" style="width:40px;"></a>')
 
