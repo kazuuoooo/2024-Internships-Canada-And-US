@@ -1,6 +1,26 @@
 import json
 from datetime import datetime
 import urllib.parse
+import csv
+def csv_to_json(csv_file_path, json_file_path):
+    rows = []
+
+    with open(csv_file_path, mode='r', encoding='utf-8') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+        for row in csv_reader:
+            rows.append(row)
+
+    with open(json_file_path, mode='w', encoding='utf-8') as json_file:
+        json.dump(rows, json_file, indent=4)
+
+    print(f"CSV data has been successfully converted to JSON and saved to {json_file_path}.")
+
+csv_file_path = 'internship_listings.csv'
+json_file_path = 'internship_listings.json'
+
+
+csv_to_json(csv_file_path, json_file_path)
+
 
 
 with open('header.md', 'r', encoding='utf-8') as header_file:
