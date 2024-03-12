@@ -555,7 +555,7 @@ If you want the full list of Summer 2024 Tech+ Internships, you can find it here
 
 
 <p align="center">
-  <a href="https://www.ribbon.ai/install">
+  <a href="https://www.interninsider.me?utm_source=git">
     <img src="data/images/header.png" alt="Subscribe to Intern Insider" style="width:1920px;"/>
   </a>
 </p>
