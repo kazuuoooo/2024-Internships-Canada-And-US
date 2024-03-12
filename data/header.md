@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://www.interninsider.me/">
+  <a href="https://www.ribbon.ai/install">
     <img src="data/images/header.png" alt="Subscribe to Intern Insider" style="width:1920px;"/>
   </a>
 </p>
@@ -26,7 +26,7 @@ This list is your **go-to resource** for 1000s of internships and entry-level jo
 > :mailbox: **Have new internship opportunities sent directly to your inbox!**
 
 <p align="center">
-  <a href="https://www.interninsider.me/subscribe?utm_source=githubmain" target="_blank">
+  <a href="https://www.interninsider.me/subscribe?utm_source=git" target="_blank">
     <img src="data/images/interninsiderbutton.png" alt="Subscribe to Intern Insider" style="width:300px;"/>
   </a>
 </p>
